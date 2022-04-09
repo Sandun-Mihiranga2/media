@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?font=Halo+Handletter&color=00FF00&size=32&lines=WELCOME+TO+WHITEDEVIL;MEDIA+STORAGE+[QUEEN-ELINA]...;MADE+BY....;SANDUN-MIHIRANGA"
+            src="https://readme-typing-svg.herokuapp.com?font=Halo+Handletter&color=00FF00&size=32&lines=WELCOME+TO+QYEEN-ELINA;MEDIA+STORAGE+[ELINA]...;MADE+BY....;SANDUN-MIHIRANGA"
             alt="Typing SVG"
         />
     </a>
